@@ -1,0 +1,6 @@
+D:\tio\laba1 task1\laba1 task1\bin\Debug\laba1_task1.exe
+D:\tio\laba1 task1\laba1 task1\bin\Debug\laba1_task1.pdb
+D:\tio\laba1 task1\laba1 task1\obj\Debug\laba1 task1.csproj.AssemblyReference.cache
+D:\tio\laba1 task1\laba1 task1\obj\Debug\laba1 task1.csproj.CoreCompileInputs.cache
+D:\tio\laba1 task1\laba1 task1\obj\Debug\laba1_task1.exe
+D:\tio\laba1 task1\laba1 task1\obj\Debug\laba1_task1.pdb
